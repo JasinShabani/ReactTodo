@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868191764258",
+    "firebase_url": "https://bratsboom.firebaseio.com",
+    "project_id": "bratsboom",
+    "storage_bucket": "bratsboom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868191764258:android:e7a58b355a2633215b6f7b",
+        "android_client_info": {
+          "package_name": "com.brats.bratsboom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868191764258-uiria3ln8d6jea16u191if4tdi8j8dvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFVmHVSrugteX1e9TENCQ12ATE0b7dlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868191764258-uiria3ln8d6jea16u191if4tdi8j8dvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
